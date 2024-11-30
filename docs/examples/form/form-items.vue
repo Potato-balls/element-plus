@@ -91,7 +91,6 @@ const submitForm = (formEl: FormInstance | undefined) => {
     if (valid) {
       console.log('submit!')
     } else {
-      console.log('error submit!')
     }
   })
 }
